@@ -1,0 +1,5 @@
+{
+  "name": "AI Data Explorer",
+  "description": "Upload a dataset and automatically visualize dataset statistics, distributions, and generate AI-powered insights.",
+  "requestFramePermissions": []
+}
